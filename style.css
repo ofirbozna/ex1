@@ -8,10 +8,11 @@ h1{
 }
 
 .ball{
+    font-size: 22px;
+    font-weight: bold;
     background-color: aquamarine ;
     height: 100px;
     width: 100px;
     border-radius: 50%;
     margin: 0 auto;
-
 }
