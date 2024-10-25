@@ -1,5 +1,10 @@
 'use strict'
+var gSize = 100
 
 function onBallClick(){
-    console.log('ball click')
+    gSize+=50
+    const elBall = document.querySelector('.ball')
+    elBall.style.height = gSize + 'px'
+    elBall.style.width = gSize + 'px'
+    elBall.innerText = gSize
 }
