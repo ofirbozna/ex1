@@ -1,7 +1,17 @@
 body{
     background-color: black;
+    text-align: center;
 }
 
 h1{
     color: white;
+}
+
+.ball{
+    background-color: aquamarine ;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+
 }
