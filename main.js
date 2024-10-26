@@ -3,7 +3,7 @@ var gSize = 100
 
 function onBallClick(){
     if(gSize<400){
-    gSize+=50
+    gSize+= getRandomInt(20,60)
     }else{
         gSize=100
     }
