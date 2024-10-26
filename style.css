@@ -17,3 +17,14 @@ h1{
     margin: 0 auto;
     transition: 1s;
 }
+
+.ball2{
+    font-size: 22px;
+    font-weight: bold;
+    background-color: rgb(255, 127, 176) ;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+    transition: 1s;
+}
